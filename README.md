@@ -1,8 +1,12 @@
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<h1 align="center">Hi 👋 I'm Tanusree Roy</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/your-username/your-username/main/profile.png" width="180"/>
+</p>
 
-<h1># Hi there👋 I'm TANUSREE ROY </h1>
-
+<p align="center">
+  🎓 EE Undergraduate • 💻 Aspiring SDE • 🚀 Backend & DSA
+</p>
 
 <!-- Typing + GIF in one row -->
 <table>
