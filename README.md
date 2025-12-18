@@ -1,16 +1,223 @@
-## Hi there 👋
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!--
-**tanusree0/tanusree0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1># Hi there👋 I'm TANUSREE ROY </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- Typing + GIF in one row -->
+<table>
+  <tr>
+    <td>
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@800&size=40&duration=800&pause=200&color=1E90FF&center=true&vCenter=true&multiline=true&width=800&height=400&lines=🚀+Create+Code+Conquer+🚀;%20;👨‍💻+Hey!+I'm+Tanusree Roy+👨‍💻;%20;💻+Full+Stack+Web+Developer+💻;%20;</>+Competitive+Programmer+</>;%20;"/> 
+      </a>
+    </td>
+    <td>
+      <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="350px " />
+    </td>
+  </tr>
+</table>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+<table>
+  <tr>
+    <td>
+      <h2>🚀 About Me</h2>
+      <ul>
+        <li>🎓 <strong>EE Student @ NIT-A (Batch 2027)</strong></li>
+        <li>🧠 Focused on <strong>Data Structures and Algorithms</strong></li>
+        <li>💻 Exploring <strong>Full Stack Web Development </strong></li>
+      </ul>
+    </td>
+    <td>
+       <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="400">
+    </td>
+  </tr>
+</table>
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+<table>
+  <tr>
+    <td valign="top">
+      <h2>🏅 Achievements</h2>
+      <ul>
+        <li>💚 <b>Codeforces:</b> Pupil (max: 1219) with 200+ problems</li>
+        <li>🧩 <b>LeetCode:</b> (max: 1693) with 500+ problems</li>
+        <li>🔥 Solved <b>1000+ coding problems</b> across all platforms</li>
+      </ul>
+    </td>
+    <td valign="top">
+      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300">
+    </td>
+  </tr>
+</table>
+
+
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+## 🛠️ Languages & Tools
+
+<p align="center">
+  
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visualstudiocode&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+</p>
+
+---
+
+## 🎯 Competitive Programming  
+
+[![Codolio](https://img.shields.io/badge/Codolio-FFA500?logo=codolio&logoColor=white)](https://codolio.com/profile/tanusree_01)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Tanusree_01/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?logo=codeforces&logoColor=white)](https://codeforces.com/profile/tanusree_01)
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="600">
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
+## 🌐 Connect with Me
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanusree-roy-396a4a224/)
+&nbsp;
+
+</div>
+
+---
+
+<h3>⭐️ Do not interrupt the code while it’s running, as even patience has its output.  — Tanusree Roy 🚀</h3>
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1920" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
