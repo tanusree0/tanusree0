@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋 I'm Tanusree Roy</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/main/profile.png" width="180"/>
-</p>
-
-<p align="center">
   🎓 EE Undergraduate • 💻 Aspiring SDE • 🚀 Backend & DSA
 </p>
 
@@ -13,7 +9,9 @@
   <tr>
     <td>
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code:wght@800&size=40&duration=800&pause=200&color=1E90FF&center=true&vCenter=true&multiline=true&width=800&height=400&lines=🚀+Create+Code+Conquer+🚀;%20;👨‍💻+Hey!+I'm+Tanusree Roy+👨‍💻;%20;💻+Full+Stack+Web+Developer+💻;%20;</>+Competitive+Programmer+</>;%20;"/> 
+       <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=1E90FF&center=true&vCenter=true&width=900&lines=🚀+Create+Code+Conquer+🚀;Hey!+I'm+Tanusree+Roy;Full+Stack+Web+Developer;Competitive+Programmer" />
+</p>
       </a>
     </td>
     <td>
