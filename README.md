@@ -10,7 +10,7 @@
     <td>
       <a href="https://git.io/typing-svg">
        <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=1E90FF&center=true&vCenter=true&width=900&lines=🚀+Create+Code+Conquer+🚀;Hey!+I'm+Tanusree+Roy;Full+Stack+Web+Developer;Competitive+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=1E90FF&center=true&vCenter=true&width=900&lines=🚀+Winter+Trainee+at+ONGC+🚀;Qualified!+The+Big+Code+2025+By+Google;Full+Stack+Web+Developer;Competitive+Programmer" />
 </p>
       </a>
     </td>
