@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Tanusree Roy</h1>
 
 <p align="center">
-  🎓 EE Undergraduate • 💻 Aspiring SDE • 🚀 Backend & DSA
+  🎓 EE Undergraduate • 💻 Winter Intern at ONGC • 🚀 Backend & DSA
 </p>
 
 <!-- Typing + GIF in one row -->
@@ -9,8 +9,8 @@
   <tr>
     <td>
       <a href="https://git.io/typing-svg">
-       <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=1E90FF&center=true&vCenter=true&width=900&lines=🚀+Winter+Trainee+at+ONGC+🚀;Qualified!+The+Big+Code+2025+By+Google;Full+Stack+Web+Developer;Competitive+Programmer" />
+     <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=1E90FF&center=true&vCenter=true&width=900&lines=🏅+Qualified+The+Big+Code+2026+by+Google;🧠+1700%2B+LeetCode+Rating;💻+MERN+Stack+Developer;⚡+1000%2B+Problems+Solved" />
 </p>
       </a>
     </td>
@@ -28,7 +28,9 @@
     <td>
       <h2>🚀 About Me</h2>
       <ul>
-        <li>🎓 <strong>EE Student @ NIT-A (Batch 2027)</strong></li>
+        <li>🎓 <strong>Electrical Engineering Student @ NIT-A (Batch 2027)</strong></li>
+        <li>💼 Winter Intern at ONGC (oil and natural gas corporation) Agartala</li>
+        <li>🎓 Secured state rank 54 (PCB) and 55 (PCM) at Tripura joint entrance examination TBJEE 2022</li>
         <li>🧠 Focused on <strong>Data Structures and Algorithms</strong></li>
         <li>💻 Exploring <strong>Full Stack Web Development </strong></li>
       </ul>
@@ -48,8 +50,10 @@
     <td valign="top">
       <h2>🏅 Achievements</h2>
       <ul>
+        <li>🏅 **Qualified The Big Code 2026 by Google** (Top 15,000)</li>
+        <li>🔥 Selected as Open source contributor at GSSOC 2025</li>
         <li>💚 <b>Codeforces:</b> Pupil (max: 1219) with 200+ problems</li>
-        <li>🧩 <b>LeetCode:</b> (max: 1693) with 500+ problems</li>
+        <li>🧩 <b>LeetCode:</b> (max: 1711) with 600+ problems</li>
         <li>🔥 Solved <b>1000+ coding problems</b> across all platforms</li>
       </ul>
     </td>
@@ -100,12 +104,25 @@
 
 
 ## 🌐 Connect with Me
-<div align="center">
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanusree-roy-396a4a224/)
-&nbsp;
+<a href="https://www.linkedin.com/in/tanusree-roy-396a4a224/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+</a>
 
-</div>
+<a href="https://www.instagram.com/tanusreeroy01">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=61571787189267">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" />
+</a>
+
+</p>
+
+<p align="center">
+📢 Built a social presence with <b>3.4K+ followers</b> across platforms
+</p>
 
 ---
 
@@ -115,111 +132,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1920" />
 
+
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
